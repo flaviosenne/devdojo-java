@@ -32,6 +32,21 @@ public class Aula04Operadores {
         boolean isPlaystation5Buyer = savingsAccount > playstationValue || currentAccount > playstationValue;
         System.out.println(isPlaystation5Buyer);
 
-        
+        // = += -= *= /= %=
+
+        double bonus = 1800; // 1800
+        bonus += 1000; // 2800
+        bonus -= 1000; // 1800
+        bonus *= 2; // 3600
+        bonus /= 2; // 900
+        bonus %= 2; // 0
+        System.out.println(bonus);
+
+        // ++ --
+        int increment  = 0;
+        increment ++;
+        increment --;
+        ++increment;
+        System.out.println(increment);
     }
 }
