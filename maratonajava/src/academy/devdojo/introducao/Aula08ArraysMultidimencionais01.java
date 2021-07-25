@@ -17,5 +17,12 @@ public class Aula08ArraysMultidimencionais01 {
                 System.out.println(days[i][j]);
             };
         }
+
+        System.out.println("------ ForEach -------");
+        for(int[] month: days){
+            for(int day: month){
+                System.out.println(day);
+            }
+        }
     }
 }
