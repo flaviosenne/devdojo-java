@@ -1,8 +1,8 @@
-package academy.devdojo.javacore.introducaclasses.test;
+package academy.devdojo.javacore.Aintroducaclasses.test;
 
-import academy.devdojo.javacore.introducaclasses.dominio.Estudante;
+import academy.devdojo.javacore.Aintroducaclasses.dominio.Estudante;
 
-public class PessoaTeste01 {
+public class EstudanteTeste01 {
     public static void main(String[] args) {
         Estudante student = new Estudante();
         student.name = "Luffy";
