@@ -9,5 +9,7 @@ public class CalculadoraTeste03 {
         double result = calc.divideTwoNumbers(20, 2);
 
         System.out.println(result);
+        System.out.println("------------------");
+        calc.printDivideTwoNumbers02(20,0);
     }
 }
