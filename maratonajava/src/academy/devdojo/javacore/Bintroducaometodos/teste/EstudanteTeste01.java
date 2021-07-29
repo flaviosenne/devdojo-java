@@ -19,7 +19,10 @@ public class EstudanteTeste01 {
 
 
         printer.print(student01);
-        System.out.println("----------------------");
+        printer.print(student02);
+
+        System.out.println("########################");
+        printer.print(student01);
         printer.print(student02);
 
     }

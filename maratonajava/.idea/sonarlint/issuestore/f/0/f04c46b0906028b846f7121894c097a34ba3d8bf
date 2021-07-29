@@ -1,0 +1,16 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»µÍ‘
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(úëİ­ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÍÛƒ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ôÙ´åúÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(òô–
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(¶Õ©–øÿÿÿÿ8ñ÷¯/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(şğ€ûøÿÿÿÿ8»®ù¯/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ˆ™“™8»®ù¯/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ³®‡ùÿÿÿÿ
+c
+java:S1226'"AIntroduce a new variable instead of reusing the parameter "num1".(øÊîôúÿÿÿÿ8ïÿö¯/
+c
+java:S1226("AIntroduce a new variable instead of reusing the parameter "num2".(’ÀçÓùÿÿÿÿ8ïÿö¯/
+P
+java:S3518#":Make sure "num2" can't be zero before doing this division.(òô–
