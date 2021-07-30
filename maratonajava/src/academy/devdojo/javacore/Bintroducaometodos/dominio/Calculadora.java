@@ -43,4 +43,20 @@ public class Calculadora {
         System.out.println("Num1 "+num1);
         System.out.println("Num2 "+num2);
     }
+
+    public void sumArray(int[] nums){
+        int sum  = 0;
+        for(int num: nums){
+            sum+=num;
+        }
+        System.out.println(sum);
+    }
+
+    public void sumVarArgs(String value,int... nums){
+        int sum  = 0;
+        for(int num: nums){
+            sum+=num;
+        }
+        System.out.println(value+sum);
+    }
 }
