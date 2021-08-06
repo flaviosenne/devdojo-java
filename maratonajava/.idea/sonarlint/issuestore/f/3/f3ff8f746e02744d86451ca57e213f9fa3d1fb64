@@ -1,0 +1,10 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(‰Õ‹žþÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ü€ñ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï¸¦·üÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(¥½½ìøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙÃ°¾
+
+java:S4165"dRemove this useless assignment; "gender" already holds the assigned value along all execution paths.(¥½½ìøÿÿÿÿ

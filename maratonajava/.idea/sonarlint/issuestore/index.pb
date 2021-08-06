@@ -25,3 +25,11 @@ Hsrc/academy/devdojo/javacore/Bintroducaometodos/teste/PessoaTeste01.java,e\8\e
 Msrc/academy/devdojo/javacore/Bintroducaometodos/teste/FuncionarioTeste01.java,9\b\9b8cde6620ce14f20319ceeb184f22321faa325d
 x
 Hsrc/academy/devdojo/javacore/Bintroducaometodos/dominio/Funcionario.java,b\6\b64d1202b9863708754e10e596032d8a85c58e7b
+w
+Gsrc/academy/devdojo/javacore/Csobrecargametodos/teste/AnimeTeste01.java,a\6\a6cc75fa8b9ca5d777be9e7638b25dc89e49594f
+r
+Bsrc/academy/devdojo/javacore/Csobrecargametodos/dominio/Anime.java,f\3\f3ff8f746e02744d86451ca57e213f9fa3d1fb64
+r
+Bsrc/academy/devdojo/javacore/Dconstrutores/teste/AnimeTeste01.java,b\c\bce1217a2296a6df90327f0c68326da83f61b7fc
+m
+=src/academy/devdojo/javacore/Dconstrutores/dominio/Anime.java,f\1\f1f15097446fb576e9d3ab081ef50f44157873be
