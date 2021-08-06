@@ -3,7 +3,7 @@ package academy.devdojo.javacore.Fmodificadorestatico.domain;
 public class Carro {
     private String name;
     private double velocity;
-    public static double limitVelocity = 250;
+    private static double limitVelocity = 250;
 
     public Carro(String name, double velocity) {
         this.name = name;
@@ -30,6 +30,14 @@ public class Carro {
 
     public void setVelocity(double velocity) {
         this.velocity = velocity;
+    }
+
+    public static void setLimitVelocity(double limitVelocity){
+        Carro.limitVelocity = limitVelocity;
+    }
+
+    public static double getLimitVelocity(){
+        return limitVelocity;
     }
 
 }
