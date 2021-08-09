@@ -1,0 +1,14 @@
+
+W
+java:S1854	":Remove this useless assignment to local variable "anime3".(íÐµª8›•µÓ²/
+W
+java:S1854":Remove this useless assignment to local variable "anime2".(ðì×Ã8—­µÓ²/
+\
+java:S1854":Remove this useless assignment to local variable "anime1".(¬”ˆ™ûÿÿÿÿ8—­µÓ²/
+M
+java:S1481"+Remove this unused "anime1" local variable.(¬”ˆ™ûÿÿÿÿ8›ôµÓ²/
+H
+java:S1481"+Remove this unused "anime2" local variable.(ðì×Ã8¯ÓµÓ²/
+H
+java:S1481	"+Remove this unused "anime3" local variable.(íÐµª8¯ÓµÓ²/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À°¦Ïÿÿÿÿÿ
