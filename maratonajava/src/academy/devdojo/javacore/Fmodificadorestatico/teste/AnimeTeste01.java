@@ -1,6 +1,6 @@
 package academy.devdojo.javacore.Fmodificadorestatico.teste;
 
-import academy.devdojo.javacore.Fmodificadorestatico.domain.Anime;
+import academy.devdojo.javacore.Fmodificadorestatico.dominio.Anime;
 
 public class AnimeTeste01 {
     public static void main(String[] args) {

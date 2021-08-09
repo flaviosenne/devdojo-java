@@ -1,4 +1,4 @@
-package academy.devdojo.javacore.Fmodificadorestatico.domain;
+package academy.devdojo.javacore.Fmodificadorestatico.dominio;
 
 public class Carro {
     private String name;

@@ -1,6 +1,6 @@
 package academy.devdojo.javacore.Fmodificadorestatico.teste;
 
-import academy.devdojo.javacore.Fmodificadorestatico.domain.Carro;
+import academy.devdojo.javacore.Fmodificadorestatico.dominio.Carro;
 
 public class CarroTeste01 {
     public static void main(String[] args) {
