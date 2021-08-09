@@ -33,3 +33,7 @@ r
 Bsrc/academy/devdojo/javacore/Dconstrutores/teste/AnimeTeste01.java,b\c\bce1217a2296a6df90327f0c68326da83f61b7fc
 m
 =src/academy/devdojo/javacore/Dconstrutores/dominio/Anime.java,f\1\f1f15097446fb576e9d3ab081ef50f44157873be
+y
+Isrc/academy/devdojo/javacore/Eblocosinicializacao/teste/AnimeTeste01.java,b\6\b6abbb8fc917c515d0d3868c1c25a712b6be6724
+t
+Dsrc/academy/devdojo/javacore/Eblocosinicializacao/dominio/Anime.java,e\1\e12a88f84ebee9cf9f361a8e048b65dcd155a82f
