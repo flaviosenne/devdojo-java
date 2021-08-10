@@ -47,9 +47,11 @@ n
 >src/academy/devdojo/javacore/Gassociaacao/dominio/Jogador.java,7\b\7b9d9bc6ac4271253d3df164791dbebeffd615a1
 s
 Csrc/academy/devdojo/javacore/Gassociaacao/teste/JogadorTeste02.java,c\3\c36ba1934925d77851d1cc8ae82e2ee466bc0f46
-p
-@src/academy/devdojo/javacore/Gassociaacao/dominio/Professor.java,0\6\0622a7b64e6c7d576e91e6b46536a763c1360f46
 r
 Bsrc/academy/devdojo/javacore/Gassociaacao/teste/EscolaTeste01.java,7\c\7cd4d504c746d8acb4d62031f1975f8e7f84e9d5
 m
 =src/academy/devdojo/javacore/Gassociaacao/dominio/Escola.java,3\6\368cfd8b38ffffc787edfdc506234adf66c4f3a2
+k
+;src/academy/devdojo/javacore/Gassociaacao/dominio/Time.java,7\8\781ca88549396b6aeb17e0dac2e23ad565eae018
+s
+Csrc/academy/devdojo/javacore/Gassociaacao/teste/JogadorTeste03.java,1\9\198ce6375768046f42ed1fdb3990d5ef57e18f11
