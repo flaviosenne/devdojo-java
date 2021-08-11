@@ -55,3 +55,11 @@ k
 ;src/academy/devdojo/javacore/Gassociaacao/dominio/Time.java,7\8\781ca88549396b6aeb17e0dac2e23ad565eae018
 s
 Csrc/academy/devdojo/javacore/Gassociaacao/teste/JogadorTeste03.java,1\9\198ce6375768046f42ed1fdb3990d5ef57e18f11
+l
+<src/academy/devdojo/javacore/Gassociaacao/dominio/Local.java,5\6\56d1f63a3b743a905822b05ab8fe13ca3a67f257
+|
+Lsrc/academy/devdojo/javacore/Gassociaacao/teste/LeituraDoTecladoTeste02.java,c\f\cfbd0cce45dff7ef741e9ff1bf8b8b23cdc1d0d7
+|
+Lsrc/academy/devdojo/javacore/Gassociaacao/teste/LeituraDoTecladoTeste01.java,8\c\8cb186b3adbf2bd4f1b50c87f50b640785bf3f70
+l
+<src/academy/devdojo/javacore/Gassociaacao/dominio/Aluno.java,7\a\7a163cc07c4013cc0b0590859ae59ecb019e9aef
