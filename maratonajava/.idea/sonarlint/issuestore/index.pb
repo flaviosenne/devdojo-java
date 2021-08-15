@@ -63,3 +63,11 @@ Lsrc/academy/devdojo/javacore/Gassociaacao/teste/LeituraDoTecladoTeste02.java,c
 Lsrc/academy/devdojo/javacore/Gassociaacao/teste/LeituraDoTecladoTeste01.java,8\c\8cb186b3adbf2bd4f1b50c87f50b640785bf3f70
 l
 <src/academy/devdojo/javacore/Gassociaacao/dominio/Aluno.java,7\a\7a163cc07c4013cc0b0590859ae59ecb019e9aef
+t
+Dsrc/academy/devdojo/javacore/Gassociaacao/teste/AssociacaoTeste.java,3\1\317f32f85ec3c9a7a36505ffe3dd433e08a2b871
+p
+@src/academy/devdojo/javacore/Gassociaacao/dominio/Professor.java,0\6\0622a7b64e6c7d576e91e6b46536a763c1360f46
+p
+@src/academy/devdojo/javacore/Gassociaacao/dominio/Seminario.java,b\6\b63269ce9b02e3281cb7b90d0cc610919a7ff159
+k
+;src/academy/devdojo/javacore/Hheranca/dominio/Endereco.java,a\b\ab9bf5cf1f705d86b0e3e2dffe313d8f116ddd43

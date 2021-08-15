@@ -1,10 +1,14 @@
 package academy.devdojo.javacore.Hheranca.dominio;
 
 public class Pessoa {
-    private String name;
-    private String cpf;
-    private Endereco address;
+    protected String name;
+    protected String cpf;
+    protected Endereco address;
 
+
+    public Pessoa(String name){
+        this.name = name;
+    }
 
     public void print(){
         System.out.println("Nome: "+ name);

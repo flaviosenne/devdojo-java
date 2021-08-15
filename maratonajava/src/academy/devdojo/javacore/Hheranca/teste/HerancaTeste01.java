@@ -10,15 +10,13 @@ public class HerancaTeste01 {
         address.setCep("012345-209");
         address.setStreet("Rua 3");
 
-        Pessoa people = new Pessoa();
+        Pessoa people = new Pessoa("Toyohisa Shimazu");
         people.setAddress(address);
         people.setCpf("11111111");
-        people.setName("Toyohisa Shimazu");
         System.out.println("--- Pessoa -----");
         people.print();
 
-        Funcionario employee = new Funcionario();
-        employee.setName("Oda Nobunaga");
+        Funcionario employee = new Funcionario("Oda Nobunaga");
         employee.setAddress(address);
         employee.setCpf("22222222");
         employee.setSalary(20000);
