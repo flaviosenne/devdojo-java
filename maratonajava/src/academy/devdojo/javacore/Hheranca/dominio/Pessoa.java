@@ -6,7 +6,18 @@ public class Pessoa {
     protected Endereco address;
 
 
+    static {
+        System.out.println("Desntro do bloco de inicialização statico de Pessoa");
+    }
+
+    {
+        System.out.println("Desntro do bloco de inicialização de Pessoa 1");
+    }
+    {
+        System.out.println("Desntro do bloco de inicialização de Pessoa 2");
+    }
     public Pessoa(String name){
+        System.out.println("Dentro do construtor de Pessoa");
         this.name = name;
     }
 
