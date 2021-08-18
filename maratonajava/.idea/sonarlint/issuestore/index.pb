@@ -71,3 +71,9 @@ p
 @src/academy/devdojo/javacore/Gassociaacao/dominio/Seminario.java,b\6\b63269ce9b02e3281cb7b90d0cc610919a7ff159
 k
 ;src/academy/devdojo/javacore/Hheranca/dominio/Endereco.java,a\b\ab9bf5cf1f705d86b0e3e2dffe313d8f116ddd43
+i
+9src/academy/devdojo/javacore/Hheranca/dominio/Pessoa.java,f\0\f00ae062fa7832d0449a1a73a6a3a15d470e88ca
+o
+?src/academy/devdojo/javacore/Hheranca/teste/HerancaTeste02.java,c\0\c0372d6a125e55efe2a4665b9ae964b2420010a1
+n
+>src/academy/devdojo/javacore/Hheranca/dominio/Funcionario.java,0\d\0de5cf3bac5f25256609c381ddb2214d0f36de39
