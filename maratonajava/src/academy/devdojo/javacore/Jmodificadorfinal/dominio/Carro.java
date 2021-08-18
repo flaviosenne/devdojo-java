@@ -10,6 +10,9 @@ public class Carro {
         VELOCITY_LIMIT = 250;
     }
 
+    public final void print(){
+        System.out.println(this.name);
+    }
 
     public String getName() {
         return name;
