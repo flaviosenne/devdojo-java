@@ -77,3 +77,9 @@ o
 ?src/academy/devdojo/javacore/Hheranca/teste/HerancaTeste02.java,c\0\c0372d6a125e55efe2a4665b9ae964b2420010a1
 n
 >src/academy/devdojo/javacore/Hheranca/dominio/Funcionario.java,0\d\0de5cf3bac5f25256609c381ddb2214d0f36de39
+o
+?src/academy/devdojo/javacore/Hheranca/teste/HerancaTeste01.java,3\7\37cd7cd928b3f51aa4d02fa9860a1b801e850b83
+l
+<src/academy/devdojo/javacore/Isobrescrita/dominio/Anime.java,0\8\0844d65a337ab998c46db3d570a5fc2e87699fc4
+q
+Asrc/academy/devdojo/javacore/Isobrescrita/teste/AnimeTeste01.java,8\d\8d0a40b2447b08a04fef94f900bb09be1ee5bebc
